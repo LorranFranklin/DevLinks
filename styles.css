@@ -6,7 +6,7 @@
 
 body {
   /* background imagem, não repete, alinhamento, tela toda*/
-   background: url(./fotos/bg-mobile.jpg) no-repeat top center/cover;
+  background: url(./fotos/bg-mobile.jpg) no-repeat top center/cover;
 }
 
 body * {
@@ -25,7 +25,7 @@ body * {
   padding: 24px;
 }
 
-#profile img{
+#profile img {
   width: 112px;
 }
 
@@ -50,4 +50,3 @@ ul li a {
 
   padding: 16px 24px;
 }
-
