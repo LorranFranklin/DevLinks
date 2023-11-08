@@ -6,7 +6,7 @@
 
 body {
   /* background imagem, não repete, alinhamento, tela toda*/
-  background: url(./fotos/bg-mobile.jpg) no-repeat top center/cover;
+  background: url(./assets/bg-mobile.jpg) no-repeat top center/cover;
 }
 
 body * {
