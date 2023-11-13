@@ -81,7 +81,9 @@ body * {
   animation: slide back 0.3s;
 }
 
-.light switch button {
+.light #switch button {
+  right: 0;
+  left: initial;
   animation: slide-in 0.3s forwards;
 }
 
