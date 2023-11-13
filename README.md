@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto MeusLinks" src=".github/MeusLinks.png" width="100%">
+  <img alt="projeto MeusLinks" src=".github/DevLinks.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
